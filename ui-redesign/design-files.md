@@ -8,5 +8,5 @@ The Landing page (desktop): https://docs.socialcap.dev/design/Landing_Desktop.pd
 
 The Landing page (mobile): https://docs.socialcap.dev/design/Landing_Mobile.pdf
 
-Full UI redesign: https://docs.socialcap.dev/design/ SocialcapUI.pdf
+Full UI redesign: https://docs.socialcap.dev/design/SocialcapUI.pdf
 
