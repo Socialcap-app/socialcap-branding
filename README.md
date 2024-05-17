@@ -1,14 +1,14 @@
-# Socialcap Branding Assets and YU redesign
+# Socialcap Branding, Assets & UI design
 
 # Logos
 
-Square logo: ![](./logos/socialcap_icon.svg)
+Square logo: [socialcap_icon.svg](./logos/socialcap_icon.svg)
 
-Full Logotype: ![](./logos/socialcap_logotype.svg)
+Full Logotype: [socialcap_logotype.svg](./logos/socialcap_logotype.svg)
 
 # Icons used in App
 
-See folder `./icons`
+In folder: [icons](./icons)
 
 # Figma design work
 
@@ -20,5 +20,3 @@ The Landing page (desktop): https://docs.socialcap.dev/design/Landing_Desktop.pd
 The Landing page (mobile): https://docs.socialcap.dev/design/Landing_Mobile.pdf
 
 Full UI redesign: https://docs.socialcap.dev/design/SocialcapUI.pdf
-
-
